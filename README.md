@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&pause=1000&color=333333&center=true&vCenter=true&width=600&height=100&lines=OM+WANKHEDE;SCRIBBLING+CODE...;SKETCHING+IDEAS...;OM+WANKHEDE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&pause=1000&color=333333&center=true&vCenter=true&width=600&height=100&lines=OM+WANKHEDE;OMME...;OM+WANKHEDE" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native;Code+%E2%80%A2+Learn+%E2%80%A2+Repeat+%E2%9C%8E%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+React+Native;Code+%E2%80%A2+Learn+%E2%80%A2+Repeat+%E2%9C%8E%EF%B8%8F" />
 </p>
 
 <p align="center">
