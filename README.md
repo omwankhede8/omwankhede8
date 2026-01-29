@@ -86,8 +86,7 @@
 
 ## 📈 Activity Log
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omwankhede8&show_icons=true&theme=graywhite&hide_border=false&border_color=333333&title_color=333333&icon_color=444444" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omwankhede8&theme=graywhite&hide_border=false&border_color=333333&stroke=333333" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omwankhede8&theme=github-light&area=true&hide_border=false&color=333333" width="100%" />
 </p>
 
 ---
