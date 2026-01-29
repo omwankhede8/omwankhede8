@@ -1,83 +1,118 @@
+<!-- WAVE + NAME -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  ⚡ Om Wankhede ⚡
+</h1>
+
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffee&height=200&section=header&text=Om%20Wankhede&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native;Node.js+%7C+TypeScript;Code+%E2%80%A2+Learn+%E2%80%A2+Repeat+%E2%9A%A1" />
 </p>
 
+<!-- BADGES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFEE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native;Node.js+%7C+TypeScript;Building+the+Future+of+Web+⚡" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
+<!-- LINKS -->
 <p align="center">
-  <a href="https://om-portfolio-blue.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-00ffee?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/om-wankhede-702257217/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/omwankhede8/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://om-portfolio-blue.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00ffee?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/om-wankhede-702257217/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/omwankhede8/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
----
+<!-- GLOW DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffee,100:0a1a2f&height=2" />
+</p>
 
 ## 👨‍💻 About Me
-
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omwankhede8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00ffee&icon_color=00ffee" width="300px" />
-    </td>
-  </tr>
-</table>
-
-- 🚀 **Role:** Full Stack Developer (SDE-I)
-- ⚛️ **Focus:** Building scalable web & mobile apps with the **MERN** stack.
-- 🧠 **Problem Solving:** 130+ LeetCode problems solved and counting.
-- 🎮 **Beyond Code:** Chess enthusiast and Valorant tactician.
-- 📫 **Current Goal:** Mastering system design and microservices.
-
-<br clear="both">
+- 🚀 Full Stack Developer
+- ⚛️ Building **scalable web & mobile apps**
+- 🧠 Solved **130+ LeetCode problems**
+- ♟️ Chess & competitive gaming (Valorant 😄)
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white) |
-| **DevOps/Tools**| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
+### 💻 Languages
+JavaScript • TypeScript • Python • Ruby
+
+### 🎨 Frontend
+React • Next.js • React Native • Tailwind CSS
+
+### 🔧 Backend
+Node.js • Express.js • MongoDB
+
+### 🧰 Tools
+Git • GitHub • VS Code • Figma
 
 ---
 
-## 📊 GitHub Metrics
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omwankhede8&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00ffee&icon_color=00ffee" alt="Om's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omwankhede8&theme=react&hide_border=true&background=0D1117&ring=00ffee&currStreakLabel=00ffee" alt="GitHub Streak" width="48%" />
-</p>
+**Software Development Engineer I**  
+*May 2025 – Nov 2025*  
+**Modulus Seventeen (OPC) Pvt Ltd**
+- Built production-grade **web & mobile apps**
+- State management with **Redux Toolkit & RTK Query**
+- Type-safe forms using **TypeScript + Zod**
+
+**MERN Stack Intern – JSpiders**  
+*Oct 2024 – Mar 2025*
+- Built full-stack MERN applications
 
 ---
 
 ## 🚀 Featured Projects
 
-### [💊 Medicine Tracker App](https://github.com/omwankhede8/Medicine-Tracker-App)
-> **React Native + Firebase**
-> A mobile solution for tracking prescriptions with real-time notifications.
+### 💊 Medicine Tracker App
+React Native + Firebase  
+🔗 https://github.com/omwankhede8/Medicine-Tracker-App
 
-### [📦 Subscription Management Backend](https://github.com/omwankhede8/subcription-tracker)
-> **Node.js • Express • MongoDB • Zod**
-> Robust API with advanced validation and type-safety.
+### 📦 Subscription Management Backend
+Node.js • Express • MongoDB  
+🔗 https://github.com/omwankhede8/subcription-tracker
 
-### [📺 TV Program Scraper](https://github.com/omwankhede8/TvProgramScraper)
-> **Ruby CLI**
-> Automated data extraction using Nokogiri and HTTParty.
+### 📺 TV Program Scraper (Ruby CLI)
+HTTParty • Nokogiri • JSON export  
+🔗 https://github.com/omwankhede8/TvProgramScraper
 
 ---
 
-## 🐍 Contribution Activity
+## 🏆 Achievements
+- ✅ Solved **130+ LeetCode problems**
+
+---
+
+## 🐍 Contribution
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
+## 📊 GitHub Activity Graph
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffee,100:0a1a2f&height=2" />
-  <sub style="color:#00ffee"><b>Code • Learn • Repeat ⚡ Om Wankhede</b></sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omwankhede8&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+<p align="center">
+  <sub style="color:#00ffee">
+    Code • Learn • Repeat ⚡
+  </sub>
+</p> 
