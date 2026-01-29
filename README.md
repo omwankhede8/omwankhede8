@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🚀 Full Stack Developer (MERN)
+- 🚀 Full Stack Developer
 - ⚛️ Building **scalable web & mobile apps**
 - 🧠 Solved **130+ LeetCode problems**
 - ♟️ Chess & competitive gaming (Valorant 😄)
@@ -73,7 +73,7 @@ HTTParty • Nokogiri • JSON export
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
