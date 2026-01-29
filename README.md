@@ -1,98 +1,96 @@
-<!-- Animated Typing Header -->
+<h1 align="center">⚡ Om Wankhede ⚡</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Om+Wankhede+👋;Full+Stack+Developer+%7C+MERN+Stack;React+%7C+React+Native+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
+  <b>Full Stack Developer • MERN Stack</b><br/>
+  <span style="color:#00ffee">React • React Native • Node.js • TypeScript</span>
+</p>
+
+<p align="center">
+  <a href="https://om-portfolio-blue.vercel.app/">🌐 Portfolio</a> |
+  <a href="https://www.linkedin.com/in/om-wankhede-702257217/">💼 LinkedIn</a> |
+  <a href="https://leetcode.com/omwankhede8/">🧠 LeetCode</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🚀 Full Stack Developer (MERN)
-- ⚛️ Building scalable **Web & Mobile apps**
-- 🌱 Strong in **React, React Native & TypeScript**
+- ⚛️ Building **scalable web & mobile apps**
 - 🧠 Solved **130+ LeetCode problems**
-- ♟️ Chess & Competitive Gaming (Valorant enjoyer 😄)
+- ♟️ Chess & competitive gaming (Valorant 😄)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby)
+JavaScript • TypeScript • Python • Ruby
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+React • Next.js • React Native • Tailwind CSS
 
-### 🔧 Backend & DB
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+### 🔧 Backend
+Node.js • Express.js • MongoDB
+
+### 🧰 Tools
+Git • GitHub • VS Code • Figma
 
 ---
 
 ## 💼 Experience
 
 **Software Development Engineer I**  
-🗓️ *May 2025 – Nov 2025*  
+*May 2025 – Nov 2025*  
 **Modulus Seventeen (OPC) Pvt Ltd**
-- Built **Modulus Buy & Sell** apps (Web + Mobile)
-- Used **Redux Toolkit & RTK Query** for state & caching
-- Built type-safe forms using **TypeScript + Zod**
+- Built production-grade **web & mobile apps**
+- State management with **Redux Toolkit & RTK Query**
+- Type-safe forms using **TypeScript + Zod**
 
 **MERN Stack Intern – JSpiders**  
-🗓️ *Oct 2024 – Mar 2025*
-- Built full-stack apps using **MongoDB, Express, React, Node.js**
+*Oct 2024 – Mar 2025*
+- Built full-stack MERN applications
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 💊 Medicine Tracker App
-- React Native + Firebase
-- Secure auth, reminders & history  
-🔗 [GitHub](https://github.com/omwankhede8/Medicine-Tracker-App)
+React Native + Firebase  
+🔗 https://github.com/omwankhede8/Medicine-Tracker-App
 
 ### 📦 Subscription Management Backend
-- Node.js, Express, MongoDB
-- JWT auth, role-based access, email reminders  
-🔗 [GitHub](https://github.com/omwankhede8/subcription-tracker)
+Node.js • Express • MongoDB  
+🔗 https://github.com/omwankhede8/subcription-tracker
 
 ### 📺 TV Program Scraper (Ruby CLI)
-- API-first scraping with HTML fallback
-- JSON export support  
-🔗 [GitHub](https://github.com/omwankhede8/TvProgramScraper)
+HTTParty • Nokogiri • JSON export  
+🔗 https://github.com/omwankhede8/TvProgramScraper
 
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **130+ LeetCode problems**  
-🔗 https://leetcode.com/omwankhede8/
+- ✅ Solved **130+ LeetCode problems**
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omwankhede8&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omwankhede8&theme=tokyonight" height="160"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Activity Graph
+
 <p align="center">
-  <a href="https://om-portfolio-blue.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/om-wankhede-702257217/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://leetcode.com/omwankhede8/"><img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omwankhede8&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=footer"/>
+  <sub style="color:#00ffee">
+    Code • Learn • Repeat ⚡
+  </sub>
 </p>
