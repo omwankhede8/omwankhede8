@@ -1,12 +1,9 @@
-<!-- WAVE + NAME -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  ⚡ Om Wankhede ⚡
-</h1>
+<!-- TOP WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffee,100:0a1a2f&height=140&section=header&text=Om%20Wankhede&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native;Node.js+%7C+TypeScript;Code+%E2%80%A2+Learn+%E2%80%A2+Repeat+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00FFEE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native;Node.js+%7C+TypeScript;Competitive+Gamer+%7C+Chess+%26+Valorant;Code+%E2%80%A2+Learn+%E2%80%A2+Repeat+%E2%9A%A1" />
 </p>
 
 <!-- BADGES -->
@@ -29,12 +26,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-
-<!-- GLOW DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffee,100:0a1a2f&height=2" />
-</p>
-
 
 ---
 
@@ -98,15 +89,24 @@ HTTParty • Nokogiri • JSON export
 
 ---
 
-## 🐍 Contribution
+## 🔥 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omwankhede8&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omwankhede8&theme=react&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Activity Graph
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📊 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omwankhede8&theme=react-dark&hide_border=true" />
@@ -114,8 +114,9 @@ HTTParty • Nokogiri • JSON export
 
 ---
 
+<!-- BOTTOM WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffee,100:0a1a2f&height=120&section=footer" />
+
 <p align="center">
-  <sub style="color:#00ffee">
-    Code • Learn • Repeat ⚡
-  </sub>
+  <sub>⚡ Code • Learn • Repeat ⚡</sub>
 </p>
