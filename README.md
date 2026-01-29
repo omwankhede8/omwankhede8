@@ -1,15 +1,40 @@
-<h1 align="center">⚡ Om Wankhede ⚡</h1>
+<!-- WAVE + NAME -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  ⚡ Om Wankhede ⚡
+</h1>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <b>Full Stack Developer • MERN Stack</b><br/>
-  <span style="color:#00ffee">React • React Native • Node.js • TypeScript</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%7C+React+Native;Node.js+%7C+TypeScript;Code+%E2%80%A2+Learn+%E2%80%A2+Repeat+%E2%9A%A1" />
 </p>
 
+<!-- BADGES -->
 <p align="center">
-  <a href="https://om-portfolio-blue.vercel.app/">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/om-wankhede-702257217/">💼 LinkedIn</a> |
-  <a href="https://leetcode.com/omwankhede8/">🧠 LeetCode</a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
+<!-- LINKS -->
+<p align="center">
+  <a href="https://om-portfolio-blue.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00ffee?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/om-wankhede-702257217/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/omwankhede8/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<!-- GLOW DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffee,100:0a1a2f&height=2" />
+</p>
+
 
 ---
 
